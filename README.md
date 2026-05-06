@@ -162,12 +162,6 @@ Feel free to fork, improve, and contribute!
 
 ---
 
-If you want next level upgrade 🔥
-I can also add:
-
-* 📸 Screenshots section (very important for GitHub)
-* 🧪 Test cases section (professors love this)
-* 🎤 Viva explanation notes (helps you defend project)
 
 
 
